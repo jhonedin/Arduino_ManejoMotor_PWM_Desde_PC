@@ -1,3 +1,8 @@
+/*
+ * Autor: Jhon Edinson Blandon
+ * Anio: 2021
+ * Descripcion: Control de un motor DC simple por PWM desde un PC en 5 velocidades distintas.
+ */
 //--------------------------------------------------
 //Declara puertos de entradas y salidas y variables
 //--------------------------------------------------
